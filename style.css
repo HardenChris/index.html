@@ -5,14 +5,12 @@ display: inline
 ;}
 
 header {text-align: right;
-background-color: rgb(138, 95, 44)
-color white;
 border: black 1px solid;}
 
 li{display: inline;}
 
-section{background-color: wheat;
+section{
 text-align: center;
 font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-font: 100; color: white;
+color: white;
 
