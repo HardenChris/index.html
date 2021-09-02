@@ -7,4 +7,3 @@ if(favColor == 'red white blue'){
 } else {
     document.body.style.background=favColor
 }
-
